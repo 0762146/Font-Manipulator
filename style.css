@@ -1,0 +1,24 @@
+body{
+    color:white;
+
+}
+.heading{
+    width:100%;
+    box-shadow: 5px 5px 18px black;
+    
+    color: white;
+    display: inline;
+    text-align: center;
+}
+.copy_right_footer{
+    position:fixed;
+    color:gray;
+    background-color: honeydew;
+    width:100%;
+    bottom:0;
+    line-height:3;
+    text-align:center
+}
+canvas{
+    
+}
